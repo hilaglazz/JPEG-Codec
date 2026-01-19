@@ -1,9 +1,3 @@
-"""
-presented by:
-Michal Shoob- 211534953
-Hila Glazz- 207881756
-"""
-
 import numpy as np
 from scipy.fft import dctn, idctn
 
